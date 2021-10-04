@@ -1,12 +1,12 @@
 {
   
-        "step1":"",
-	"step2":"",
-	"step3":"",
-	"step4":"Complete Verification",
-        "step5":"",
-	"step6":"",
-	"step7":"",
+        "step1":"DManager is fast, free and private browser with desktop-class file management.",
+	"step2":"Passcode lock with Touch ID and Face ID support! Download manager with resumable downloads",
+	"step3":"Organize files in folders, sort by name/date/size/kind, Safari-like web-browser",
+	"step4":"Download & Rate App To Complete Verification",
+	"step5":"In new version browser is significantly improved, Tabs (upon your request) with popup blocker",
+	"step6":"Reworked navigation, smooth page loading, Bookmarks grid instead of home screen",
+	"step7":"DManager is fast, free and private browser with desktop-class file management.",
 
 	"CPA_LINK":"https://www.facebook.com/",
 	
@@ -30,9 +30,9 @@
 	"MO_PUB_INTERSTITIAL_ID":"24534e1901884e398f1253216226017e",
 	"whichAds":3,
 
-	"isLastPageShow":false,
+	"isLastPageShow":true,
 	
-	"is_pop_up_enable":false,
+	"is_pop_up_enable":true,
 	"pop_up_title":"Instagram",
 	"pop_up_image_url":"https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
 	"pop_up_button_text":"Install Now",
@@ -40,7 +40,7 @@
 	
 	"native_image_url":"https://blog.admixer.com/wp-content/uploads/2017/07/002.png",
 	"native_link":"https://www.facebook.com/",
-	"native_enabled":false
+	"native_enabled":true
 
 
 }
