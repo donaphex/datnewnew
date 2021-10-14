@@ -22,8 +22,8 @@
 	
 	"TESTMODE" : false,
 	"unity_game_id" : "4403843",
-        "unity_banner" : "Banner_Android",
-        "unity_interstitial" : "Interstitial_Android",
+        "unity_banner" : "dmbannr",
+        "unity_interstitial" : "dminter",
 	
 	"APPLOVIN_BANNER_ID":"053d01ea489fc778",
 	"APPLOVIN_INTERSTITIAL_ID":"9348714269a8532d",
