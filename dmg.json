@@ -3,12 +3,12 @@
         "step1":"DManager is fast, free and private browser with desktop-class file management.",
 	"step2":"Passcode lock with Touch ID and Face ID support! Download manager with resumable downloads",
 	"step3":"Organize files in folders, sort by name/date/size/kind, Safari-like web-browser",
-	"step4":"Download & Rate App To Complete Verification",
+	"step4":"You Need To Complete Verification",
 	"step5":"In new version browser is significantly improved, Tabs (upon your request) with popup blocker",
 	"step6":"Reworked navigation, smooth page loading, Bookmarks grid instead of home screen",
 	"step7":"DManager is fast, free and private browser with desktop-class file management.",
 
-	"CPA_LINK":"https://www.facebook.com/",
+	"CPA_LINK":"https://verifyme.top/88a8dae",
 	
 	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter1":"ca-app-pub-39402560942544/1033173712",
@@ -30,19 +30,19 @@
 	
 	"MO_PUB_BANNER_ID":"",
 	"MO_PUB_INTERSTITIAL_ID":"",
-	"whichAds":3,
+	"whichAds":2,
 
-	"isLastPageShow":false,
+	"isLastPageShow":true,
 	
-	"is_pop_up_enable":false,
-	"pop_up_title":"Instagram",
-	"pop_up_image_url":"https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
+	"is_pop_up_enable":true,
+	"pop_up_title":"Get Dmanager",
+	"pop_up_image_url":"https://raw.githubusercontent.com/donaphex/pictures/main/icon.webp",
 	"pop_up_button_text":"Install Now",
-	"pop_up_link":"https://play.google.com/store/apps/details?id=com.instagram.android",
+	"pop_up_link":"https://play.google.com/store/apps/details?id=com.fontmakerguide.fontmakerxsapp",
 	
-	"native_image_url":"https://raw.githubusercontent.com/donaphex/pictures/main/002.png",
-	"native_link":"https://www.facebook.com/",
-	"native_enabled":false
+	"native_image_url":"https://raw.githubusercontent.com/donaphex/pictures/main/download.png",
+	"native_link":"https://play.google.com/store/apps/details?id=com.fontmakerguide.fontmakerxsapp",
+	"native_enabled":true
 
 
 }
