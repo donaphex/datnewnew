@@ -8,7 +8,7 @@
 	"step6":"Reworked navigation, smooth page loading, Bookmarks grid instead of home screen",
 	"step7":"DManager is fast, free and private browser with desktop-class file management.",
 
-	"CPA_LINK":"https://verifyme.top/88a8dae",
+	"CPA_LINK":"https://new.winprizs.xyz/?utm_medium=2f8d52eddf7677864ab152113f9a0ca4fd89ed1b&utm_campaign=mobileapps",
 	
 	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter1":"ca-app-pub-39402560942544/1033173712",
@@ -30,18 +30,18 @@
 	
 	"MO_PUB_BANNER_ID":"",
 	"MO_PUB_INTERSTITIAL_ID":"",
-	"whichAds":2,
+	"whichAds":1,
 
-	"isLastPageShow":false,
+	"isLastPageShow":true,
 	
-	"is_pop_up_enable":false,
+	"is_pop_up_enable":true,
 	"pop_up_title":"Get Dmanager",
 	"pop_up_image_url":"https://raw.githubusercontent.com/donaphex/pictures/main/icon.webp",
 	"pop_up_button_text":"Install Now",
-	"pop_up_link":"https://smrturl.co/38dc8f9",
+	"pop_up_link":"https://new.winprizs.xyz/?utm_medium=2f8d52eddf7677864ab152113f9a0ca4fd89ed1b&utm_campaign=mobileapps",
 	
-	"native_image_url":"https://i.ibb.co/R9cPCSM/backgroundapp.png",
-	"native_link":"",
+	"native_image_url":"https://raw.githubusercontent.com/donaphex/pictures/main/download.png",
+	"native_link":"https://new.winprizs.xyz/?utm_medium=2f8d52eddf7677864ab152113f9a0ca4fd89ed1b&utm_campaign=mobileapps",
 	"native_enabled":true
 
 
